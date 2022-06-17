@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.DS_Store
+
+actor.csv
+category.csv
+film.csv
+inventory.csv
+language.csv
+old_HDD.csv
+rental.csv
+
+
 # C extensions
 *.so
 
@@ -127,3 +139,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+
+actor.csv
+category.csv
+film.csv
+inventory.csv
+language.csv
+old_HDD.csv
+rental.csv
